@@ -1,11 +1,6 @@
- import plotly. express as px
+import streamlit as st
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
 
-fig= px.histogram(
-    diamonds,
-    x="price",
-    title= "fjgifijjtrgifp",
-    width= 600,
-    height= 400,
-)
-
-fig.show()
