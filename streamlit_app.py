@@ -3,9 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
-import streamlit as st
-import plotly.express as px
-import pandas as pd
 
 # Título de la sección
 st.title("Comparación del pH Isoeléctrico (pI) de la Histidina y otras Moléculas")
