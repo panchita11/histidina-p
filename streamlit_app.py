@@ -1,4 +1,5 @@
 import streamlit as st
+venv\Scripts\activate
 pip install plotly
 
 st.title("🎈 My new app")
